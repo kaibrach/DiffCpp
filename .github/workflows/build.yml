@@ -2,7 +2,7 @@
 name: Build Tool
 
 on:
-  workflow_dispatch
+  workflow_all
 
 jobs:
 
